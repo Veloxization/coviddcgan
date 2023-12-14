@@ -226,5 +226,5 @@ class DCGAN():
 
 
 if __name__ == '__main__':
-    dcgan = DCGAN("covidmodel")
+    dcgan = DCGAN()
     dcgan.train(epoch_end=28001, epoch_start=0, batch_size=32, save_interval=200, backup_interval=2000)
