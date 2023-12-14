@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="876"
-   height="566"
-   viewBox="-0.5 -0.5 876 566"
+   width="566px"
+   height="876px"
+   viewBox="-0.5 -0.5 566 876"
    id="svg189"
    sodipodi:docname="densenet.svg"
+   style="background-color: rgb(255, 255, 255);"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -34,20 +35,19 @@
   <defs
      id="defs1" />
   <g
-     id="g188"
-     transform="rotate(90,437.5,437.5)">
+     id="g188">
     <rect
        x="-35"
        y="60"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,15,75)"
        pointer-events="all"
        id="rect1" />
     <g
-       transform="rotate(-90,14.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 15 75)"
        id="g1">
       <switch
          id="switch1">
@@ -70,7 +70,7 @@
         <text
            x="15"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -82,13 +82,13 @@
        y="60"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,55,75)"
        pointer-events="all"
        id="rect2" />
     <g
-       transform="rotate(-90,54.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 55 75)"
        id="g2">
       <switch
          id="switch2">
@@ -111,7 +111,7 @@
         <text
            x="55"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -123,13 +123,13 @@
        y="60"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,95,75)"
        pointer-events="all"
        id="rect3" />
     <g
-       transform="rotate(-90,94.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 95 75)"
        id="g3">
       <switch
          id="switch3">
@@ -152,7 +152,7 @@
         <text
            x="95"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -164,13 +164,13 @@
        y="60"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,295,75)"
        pointer-events="all"
        id="rect4" />
     <g
-       transform="rotate(-90,294.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 295 75)"
        id="g4">
       <switch
          id="switch4">
@@ -193,7 +193,7 @@
         <text
            x="295"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -205,13 +205,13 @@
        y="60"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,175,75)"
        pointer-events="all"
        id="rect5" />
     <g
-       transform="rotate(-90,174.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 175 75)"
        id="g5">
       <switch
          id="switch5">
@@ -234,7 +234,7 @@
         <text
            x="175"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -246,13 +246,13 @@
        y="60"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,215,75)"
        pointer-events="all"
        id="rect6" />
     <g
-       transform="rotate(-90,214.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 215 75)"
        id="g6">
       <switch
          id="switch6">
@@ -275,7 +275,7 @@
         <text
            x="215"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -287,13 +287,13 @@
        y="60"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,255,75)"
        pointer-events="all"
        id="rect7" />
     <g
-       transform="rotate(-90,254.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 255 75)"
        id="g7">
       <switch
          id="switch7">
@@ -316,7 +316,7 @@
         <text
            x="255"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -328,13 +328,13 @@
        y="60"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,135,75)"
        pointer-events="all"
        id="rect8" />
     <g
-       transform="rotate(-90,134.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 135 75)"
        id="g8">
       <switch
          id="switch8">
@@ -357,7 +357,7 @@
         <text
            x="135"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -369,13 +369,13 @@
        y="60"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,335,75)"
        pointer-events="all"
        id="rect9" />
     <g
-       transform="rotate(-90,334.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 335 75)"
        id="g9">
       <switch
          id="switch9">
@@ -398,7 +398,7 @@
         <text
            x="335"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -410,13 +410,13 @@
        y="60"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,375,75)"
        pointer-events="all"
        id="rect10" />
     <g
-       transform="rotate(-90,374.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 375 75)"
        id="g10">
       <switch
          id="switch10">
@@ -439,7 +439,7 @@
         <text
            x="375"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -451,13 +451,13 @@
        y="60"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,415,75)"
        pointer-events="all"
        id="rect11" />
     <g
-       transform="rotate(-90,414.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 415 75)"
        id="g11">
       <switch
          id="switch11">
@@ -480,7 +480,7 @@
         <text
            x="415"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -492,13 +492,13 @@
        y="60"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,455,75)"
        pointer-events="all"
        id="rect12" />
     <g
-       transform="rotate(-90,454.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 455 75)"
        id="g12">
       <switch
          id="switch12">
@@ -521,7 +521,7 @@
         <text
            x="455"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -533,13 +533,13 @@
        y="60"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,495,75)"
        pointer-events="all"
        id="rect13" />
     <g
-       transform="rotate(-90,494.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 495 75)"
        id="g13">
       <switch
          id="switch13">
@@ -562,7 +562,7 @@
         <text
            x="495"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -574,13 +574,13 @@
        y="60"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,535,75)"
        pointer-events="all"
        id="rect14" />
     <g
-       transform="rotate(-90,534.5,75)"
+       transform="translate(-0.5 -0.5)rotate(-90 535 75)"
        id="g14">
       <switch
          id="switch14">
@@ -603,7 +603,7 @@
         <text
            x="535"
            y="79"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -616,8 +616,8 @@
        width="280"
        height="130"
        fill="none"
-       stroke="#000000"
-       stroke-dasharray="3, 3"
+       stroke="rgb(0, 0, 0)"
+       stroke-dasharray="3 3"
        pointer-events="all"
        id="rect15" />
     <rect
@@ -630,7 +630,7 @@
        pointer-events="all"
        id="rect16" />
     <g
-       transform="translate(-0.5,-0.5)"
+       transform="translate(-0.5 -0.5)"
        id="g16">
       <switch
          id="switch16">
@@ -653,7 +653,7 @@
         <text
            x="415"
            y="159"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -665,13 +665,13 @@
        y="240"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,135,255)"
        pointer-events="all"
        id="rect17" />
     <g
-       transform="rotate(-90,134.5,255)"
+       transform="translate(-0.5 -0.5)rotate(-90 135 255)"
        id="g17">
       <switch
          id="switch17">
@@ -694,7 +694,7 @@
         <text
            x="135"
            y="259"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -706,13 +706,13 @@
        y="240"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,175,255)"
        pointer-events="all"
        id="rect18" />
     <g
-       transform="rotate(-90,174.5,255)"
+       transform="translate(-0.5 -0.5)rotate(-90 175 255)"
        id="g18">
       <switch
          id="switch18">
@@ -735,7 +735,7 @@
         <text
            x="175"
            y="259"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -747,13 +747,13 @@
        y="240"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,215,255)"
        pointer-events="all"
        id="rect19" />
     <g
-       transform="rotate(-90,214.5,255)"
+       transform="translate(-0.5 -0.5)rotate(-90 215 255)"
        id="g19">
       <switch
          id="switch19">
@@ -776,7 +776,7 @@
         <text
            x="215"
            y="259"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -788,13 +788,13 @@
        y="240"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,255,255)"
        pointer-events="all"
        id="rect20" />
     <g
-       transform="rotate(-90,254.5,255)"
+       transform="translate(-0.5 -0.5)rotate(-90 255 255)"
        id="g20">
       <switch
          id="switch20">
@@ -817,7 +817,7 @@
         <text
            x="255"
            y="259"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -829,13 +829,13 @@
        y="240"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,295,255)"
        pointer-events="all"
        id="rect21" />
     <g
-       transform="rotate(-90,294.5,255)"
+       transform="translate(-0.5 -0.5)rotate(-90 295 255)"
        id="g21">
       <switch
          id="switch21">
@@ -858,7 +858,7 @@
         <text
            x="295"
            y="259"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -870,13 +870,13 @@
        y="240"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,335,255)"
        pointer-events="all"
        id="rect22" />
     <g
-       transform="rotate(-90,334.5,255)"
+       transform="translate(-0.5 -0.5)rotate(-90 335 255)"
        id="g22">
       <switch
          id="switch22">
@@ -899,7 +899,7 @@
         <text
            x="335"
            y="259"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -911,13 +911,13 @@
        y="240"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,375,255)"
        pointer-events="all"
        id="rect23" />
     <g
-       transform="rotate(-90,374.5,255)"
+       transform="translate(-0.5 -0.5)rotate(-90 375 255)"
        id="g23">
       <switch
          id="switch23">
@@ -940,7 +940,7 @@
         <text
            x="375"
            y="259"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -952,13 +952,13 @@
        y="240"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,415,255)"
        pointer-events="all"
        id="rect24" />
     <g
-       transform="rotate(-90,414.5,255)"
+       transform="translate(-0.5 -0.5)rotate(-90 415 255)"
        id="g24">
       <switch
          id="switch24">
@@ -981,7 +981,7 @@
         <text
            x="415"
            y="259"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -993,13 +993,13 @@
        y="240"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,455,255)"
        pointer-events="all"
        id="rect25" />
     <g
-       transform="rotate(-90,454.5,255)"
+       transform="translate(-0.5 -0.5)rotate(-90 455 255)"
        id="g25">
       <switch
          id="switch25">
@@ -1022,7 +1022,7 @@
         <text
            x="455"
            y="259"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1034,13 +1034,13 @@
        y="240"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,495,255)"
        pointer-events="all"
        id="rect26" />
     <g
-       transform="rotate(-90,494.5,255)"
+       transform="translate(-0.5 -0.5)rotate(-90 495 255)"
        id="g26">
       <switch
          id="switch26">
@@ -1063,7 +1063,7 @@
         <text
            x="495"
            y="259"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1075,13 +1075,13 @@
        y="240"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,535,255)"
        pointer-events="all"
        id="rect27" />
     <g
-       transform="rotate(-90,534.5,255)"
+       transform="translate(-0.5 -0.5)rotate(-90 535 255)"
        id="g27">
       <switch
          id="switch27">
@@ -1104,7 +1104,7 @@
         <text
            x="535"
            y="259"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1117,8 +1117,8 @@
        width="280"
        height="130"
        fill="none"
-       stroke="#000000"
-       stroke-dasharray="3, 3"
+       stroke="rgb(0, 0, 0)"
+       stroke-dasharray="3 3"
        pointer-events="all"
        id="rect28" />
     <rect
@@ -1131,7 +1131,7 @@
        pointer-events="all"
        id="rect29" />
     <g
-       transform="translate(-0.5,-0.5)"
+       transform="translate(-0.5 -0.5)"
        id="g29">
       <switch
          id="switch29">
@@ -1154,7 +1154,7 @@
         <text
            x="415"
            y="339"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1162,16 +1162,16 @@
       </switch>
     </g>
     <path
-       d="M 255,25 Q 275,0 405,0 535,0 535,18.63"
+       d="M 255 25 Q 275 0 405 0 Q 535 0 535 18.63"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path29" />
     <path
-       d="m 535,23.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 535 23.88 L 531.5 16.88 L 535 18.63 L 538.5 16.88 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path30" />
@@ -1180,13 +1180,13 @@
        y="420"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,135,435)"
        pointer-events="all"
        id="rect30" />
     <g
-       transform="rotate(-90,134.5,435)"
+       transform="translate(-0.5 -0.5)rotate(-90 135 435)"
        id="g30">
       <switch
          id="switch30">
@@ -1209,7 +1209,7 @@
         <text
            x="135"
            y="439"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1221,13 +1221,13 @@
        y="420"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,175,435)"
        pointer-events="all"
        id="rect31" />
     <g
-       transform="rotate(-90,174.5,435)"
+       transform="translate(-0.5 -0.5)rotate(-90 175 435)"
        id="g31">
       <switch
          id="switch31">
@@ -1250,7 +1250,7 @@
         <text
            x="175"
            y="439"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1262,13 +1262,13 @@
        y="420"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,215,435)"
        pointer-events="all"
        id="rect32" />
     <g
-       transform="rotate(-90,214.5,435)"
+       transform="translate(-0.5 -0.5)rotate(-90 215 435)"
        id="g32">
       <switch
          id="switch32">
@@ -1291,7 +1291,7 @@
         <text
            x="215"
            y="439"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1303,13 +1303,13 @@
        y="420"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,255,435)"
        pointer-events="all"
        id="rect33" />
     <g
-       transform="rotate(-90,254.5,435)"
+       transform="translate(-0.5 -0.5)rotate(-90 255 435)"
        id="g33">
       <switch
          id="switch33">
@@ -1332,7 +1332,7 @@
         <text
            x="255"
            y="439"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1344,13 +1344,13 @@
        y="420"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,295,435)"
        pointer-events="all"
        id="rect34" />
     <g
-       transform="rotate(-90,294.5,435)"
+       transform="translate(-0.5 -0.5)rotate(-90 295 435)"
        id="g34">
       <switch
          id="switch34">
@@ -1373,7 +1373,7 @@
         <text
            x="295"
            y="439"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1385,13 +1385,13 @@
        y="420"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,335,435)"
        pointer-events="all"
        id="rect35" />
     <g
-       transform="rotate(-90,334.5,435)"
+       transform="translate(-0.5 -0.5)rotate(-90 335 435)"
        id="g35">
       <switch
          id="switch35">
@@ -1414,7 +1414,7 @@
         <text
            x="335"
            y="439"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1426,13 +1426,13 @@
        y="420"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,375,435)"
        pointer-events="all"
        id="rect36" />
     <g
-       transform="rotate(-90,374.5,435)"
+       transform="translate(-0.5 -0.5)rotate(-90 375 435)"
        id="g36">
       <switch
          id="switch36">
@@ -1455,7 +1455,7 @@
         <text
            x="375"
            y="439"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1467,13 +1467,13 @@
        y="420"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,415,435)"
        pointer-events="all"
        id="rect37" />
     <g
-       transform="rotate(-90,414.5,435)"
+       transform="translate(-0.5 -0.5)rotate(-90 415 435)"
        id="g37">
       <switch
          id="switch37">
@@ -1496,7 +1496,7 @@
         <text
            x="415"
            y="439"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1508,13 +1508,13 @@
        y="420"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,455,435)"
        pointer-events="all"
        id="rect38" />
     <g
-       transform="rotate(-90,454.5,435)"
+       transform="translate(-0.5 -0.5)rotate(-90 455 435)"
        id="g38">
       <switch
          id="switch38">
@@ -1537,7 +1537,7 @@
         <text
            x="455"
            y="439"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1549,13 +1549,13 @@
        y="420"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,495,435)"
        pointer-events="all"
        id="rect39" />
     <g
-       transform="rotate(-90,494.5,435)"
+       transform="translate(-0.5 -0.5)rotate(-90 495 435)"
        id="g39">
       <switch
          id="switch39">
@@ -1578,7 +1578,7 @@
         <text
            x="495"
            y="439"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1590,13 +1590,13 @@
        y="420"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,535,435)"
        pointer-events="all"
        id="rect40" />
     <g
-       transform="rotate(-90,534.5,435)"
+       transform="translate(-0.5 -0.5)rotate(-90 535 435)"
        id="g40">
       <switch
          id="switch40">
@@ -1619,7 +1619,7 @@
         <text
            x="535"
            y="439"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1632,8 +1632,8 @@
        width="280"
        height="130"
        fill="none"
-       stroke="#000000"
-       stroke-dasharray="3, 3"
+       stroke="rgb(0, 0, 0)"
+       stroke-dasharray="3 3"
        pointer-events="all"
        id="rect41" />
     <rect
@@ -1646,7 +1646,7 @@
        pointer-events="all"
        id="rect42" />
     <g
-       transform="translate(-0.5,-0.5)"
+       transform="translate(-0.5 -0.5)"
        id="g42">
       <switch
          id="switch42">
@@ -1669,7 +1669,7 @@
         <text
            x="415"
            y="519"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1677,72 +1677,72 @@
       </switch>
     </g>
     <path
-       d="M 535,125 Q 385,150 301.28,136.05"
+       d="M 535 125 Q 385 150 301.28 136.05"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path42" />
     <path
-       d="m 296.1,135.18 7.48,-2.3 -2.3,3.17 1.15,3.74 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 296.1 135.18 L 303.58 132.88 L 301.28 136.05 L 302.43 139.79 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path43" />
     <path
-       d="M 537,305 Q 387,330 303.28,316.05"
+       d="M 537 305 Q 387 330 303.28 316.05"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path44" />
     <path
-       d="m 298.1,315.18 7.48,-2.3 -2.3,3.17 1.15,3.74 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 298.1 315.18 L 305.58 312.88 L 303.28 316.05 L 304.43 319.79 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path45" />
     <path
-       d="m 255,195 q 20,-25 150,-25 130,0 130,28.63"
+       d="M 255 195 Q 275 170 405 170 Q 535 170 535 198.63"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path46" />
     <path
-       d="m 535,203.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 535 203.88 L 531.5 196.88 L 535 198.63 L 538.5 196.88 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path47" />
     <path
-       d="m 255,375 q 20,-25 150,-25 130,0 130,28.63"
+       d="M 255 375 Q 275 350 405 350 Q 535 350 535 378.63"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path48" />
     <path
-       d="m 535,383.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 535 383.88 L 531.5 376.88 L 535 378.63 L 538.5 376.88 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path49" />
     <path
-       d="M 537,485 Q 387,510 303.28,496.05"
+       d="M 537 485 Q 387 510 303.28 496.05"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path50" />
     <path
-       d="m 298.1,495.18 7.48,-2.3 -2.3,3.17 1.15,3.74 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 298.1 495.18 L 305.58 492.88 L 303.28 496.05 L 304.43 499.79 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path51" />
@@ -1751,13 +1751,13 @@
        y="600"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,135,615)"
        pointer-events="all"
        id="rect51" />
     <g
-       transform="rotate(-90,134.5,615)"
+       transform="translate(-0.5 -0.5)rotate(-90 135 615)"
        id="g51">
       <switch
          id="switch51">
@@ -1780,7 +1780,7 @@
         <text
            x="135"
            y="619"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1792,13 +1792,13 @@
        y="600"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,175,615)"
        pointer-events="all"
        id="rect52" />
     <g
-       transform="rotate(-90,174.5,615)"
+       transform="translate(-0.5 -0.5)rotate(-90 175 615)"
        id="g52">
       <switch
          id="switch52">
@@ -1821,7 +1821,7 @@
         <text
            x="175"
            y="619"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1833,13 +1833,13 @@
        y="600"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,215,615)"
        pointer-events="all"
        id="rect53" />
     <g
-       transform="rotate(-90,214.5,615)"
+       transform="translate(-0.5 -0.5)rotate(-90 215 615)"
        id="g53">
       <switch
          id="switch53">
@@ -1862,7 +1862,7 @@
         <text
            x="215"
            y="619"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1874,13 +1874,13 @@
        y="600"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,255,615)"
        pointer-events="all"
        id="rect54" />
     <g
-       transform="rotate(-90,254.5,615)"
+       transform="translate(-0.5 -0.5)rotate(-90 255 615)"
        id="g54">
       <switch
          id="switch54">
@@ -1903,7 +1903,7 @@
         <text
            x="255"
            y="619"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1915,13 +1915,13 @@
        y="600"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,295,615)"
        pointer-events="all"
        id="rect55" />
     <g
-       transform="rotate(-90,294.5,615)"
+       transform="translate(-0.5 -0.5)rotate(-90 295 615)"
        id="g55">
       <switch
          id="switch55">
@@ -1944,7 +1944,7 @@
         <text
            x="295"
            y="619"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1956,13 +1956,13 @@
        y="600"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,335,615)"
        pointer-events="all"
        id="rect56" />
     <g
-       transform="rotate(-90,334.5,615)"
+       transform="translate(-0.5 -0.5)rotate(-90 335 615)"
        id="g56">
       <switch
          id="switch56">
@@ -1985,7 +1985,7 @@
         <text
            x="335"
            y="619"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -1997,13 +1997,13 @@
        y="600"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,375,615)"
        pointer-events="all"
        id="rect57" />
     <g
-       transform="rotate(-90,374.5,615)"
+       transform="translate(-0.5 -0.5)rotate(-90 375 615)"
        id="g57">
       <switch
          id="switch57">
@@ -2026,7 +2026,7 @@
         <text
            x="375"
            y="619"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2038,13 +2038,13 @@
        y="600"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,415,615)"
        pointer-events="all"
        id="rect58" />
     <g
-       transform="rotate(-90,414.5,615)"
+       transform="translate(-0.5 -0.5)rotate(-90 415 615)"
        id="g58">
       <switch
          id="switch58">
@@ -2067,7 +2067,7 @@
         <text
            x="415"
            y="619"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2079,13 +2079,13 @@
        y="600"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,455,615)"
        pointer-events="all"
        id="rect59" />
     <g
-       transform="rotate(-90,454.5,615)"
+       transform="translate(-0.5 -0.5)rotate(-90 455 615)"
        id="g59">
       <switch
          id="switch59">
@@ -2108,7 +2108,7 @@
         <text
            x="455"
            y="619"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2120,13 +2120,13 @@
        y="600"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,495,615)"
        pointer-events="all"
        id="rect60" />
     <g
-       transform="rotate(-90,494.5,615)"
+       transform="translate(-0.5 -0.5)rotate(-90 495 615)"
        id="g60">
       <switch
          id="switch60">
@@ -2149,7 +2149,7 @@
         <text
            x="495"
            y="619"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2161,13 +2161,13 @@
        y="600"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,535,615)"
        pointer-events="all"
        id="rect61" />
     <g
-       transform="rotate(-90,534.5,615)"
+       transform="translate(-0.5 -0.5)rotate(-90 535 615)"
        id="g61">
       <switch
          id="switch61">
@@ -2190,7 +2190,7 @@
         <text
            x="535"
            y="619"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2203,8 +2203,8 @@
        width="280"
        height="130"
        fill="none"
-       stroke="#000000"
-       stroke-dasharray="3, 3"
+       stroke="rgb(0, 0, 0)"
+       stroke-dasharray="3 3"
        pointer-events="all"
        id="rect62" />
     <rect
@@ -2217,7 +2217,7 @@
        pointer-events="all"
        id="rect63" />
     <g
-       transform="translate(-0.5,-0.5)"
+       transform="translate(-0.5 -0.5)"
        id="g63">
       <switch
          id="switch63">
@@ -2240,7 +2240,7 @@
         <text
            x="415"
            y="699"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2248,30 +2248,30 @@
       </switch>
     </g>
     <path
-       d="m 255,555 q 20,-25 150,-25 130,0 130,28.63"
+       d="M 255 555 Q 275 530 405 530 Q 535 530 535 558.63"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path63" />
     <path
-       d="m 535,563.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 535 563.88 L 531.5 556.88 L 535 558.63 L 538.5 556.88 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path64" />
     <path
-       d="M 537,665 Q 387,690 303.28,676.05"
+       d="M 537 665 Q 387 690 303.28 676.05"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path65" />
     <path
-       d="m 298.1,675.18 7.48,-2.3 -2.3,3.17 1.15,3.74 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 298.1 675.18 L 305.58 672.88 L 303.28 676.05 L 304.43 679.79 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path66" />
@@ -2280,13 +2280,13 @@
        y="780"
        width="120"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,135,795)"
        pointer-events="all"
        id="rect66" />
     <g
-       transform="rotate(-90,134.5,795)"
+       transform="translate(-0.5 -0.5)rotate(-90 135 795)"
        id="g66">
       <switch
          id="switch66">
@@ -2309,7 +2309,7 @@
         <text
            x="135"
            y="799"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2321,13 +2321,13 @@
        y="780"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,175,795)"
        pointer-events="all"
        id="rect67" />
     <g
-       transform="rotate(-90,174.5,795)"
+       transform="translate(-0.5 -0.5)rotate(-90 175 795)"
        id="g67">
       <switch
          id="switch67">
@@ -2350,7 +2350,7 @@
         <text
            x="175"
            y="799"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2362,13 +2362,13 @@
        y="780"
        width="160"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,215,795)"
        pointer-events="all"
        id="rect68" />
     <g
-       transform="rotate(-90,214.5,795)"
+       transform="translate(-0.5 -0.5)rotate(-90 215 795)"
        id="g68">
       <switch
          id="switch68">
@@ -2391,7 +2391,7 @@
         <text
            x="215"
            y="799"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2403,13 +2403,13 @@
        y="780"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,255,795)"
        pointer-events="all"
        id="rect69" />
     <g
-       transform="rotate(-90,254.5,795)"
+       transform="translate(-0.5 -0.5)rotate(-90 255 795)"
        id="g69">
       <switch
          id="switch69">
@@ -2432,7 +2432,7 @@
         <text
            x="255"
            y="799"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2444,13 +2444,13 @@
        y="780"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,295,795)"
        pointer-events="all"
        id="rect70" />
     <g
-       transform="rotate(-90,294.5,795)"
+       transform="translate(-0.5 -0.5)rotate(-90 295 795)"
        id="g70">
       <switch
          id="switch70">
@@ -2473,7 +2473,7 @@
         <text
            x="295"
            y="799"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2485,13 +2485,13 @@
        y="780"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,335,795)"
        pointer-events="all"
        id="rect71" />
     <g
-       transform="rotate(-90,334.5,795)"
+       transform="translate(-0.5 -0.5)rotate(-90 335 795)"
        id="g71">
       <switch
          id="switch71">
@@ -2514,7 +2514,7 @@
         <text
            x="335"
            y="799"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2526,13 +2526,13 @@
        y="780"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,375,795)"
        pointer-events="all"
        id="rect72" />
     <g
-       transform="rotate(-90,374.5,795)"
+       transform="translate(-0.5 -0.5)rotate(-90 375 795)"
        id="g72">
       <switch
          id="switch72">
@@ -2555,7 +2555,7 @@
         <text
            x="375"
            y="799"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2567,13 +2567,13 @@
        y="780"
        width="100"
        height="30"
-       fill="#ffffff"
-       stroke="#000000"
+       fill="rgb(255, 255, 255)"
+       stroke="rgb(0, 0, 0)"
        transform="rotate(-90,415,795)"
        pointer-events="all"
        id="rect73" />
     <g
-       transform="rotate(-90,414.5,795)"
+       transform="translate(-0.5 -0.5)rotate(-90 415 795)"
        id="g73">
       <switch
          id="switch73">
@@ -2596,7 +2596,7 @@
         <text
            x="415"
            y="799"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -2604,821 +2604,820 @@
       </switch>
     </g>
     <path
-       d="M 550,75 Q 615,200 345,155 75,110 118.11,248.92"
+       d="M 550 75 Q 615 200 345 155 Q 75 110 118.11 248.92"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path73" />
     <path
-       d="m 119.67,253.93 -5.42,-5.65 3.86,0.64 2.83,-2.71 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 119.67 253.93 L 114.25 248.28 L 118.11 248.92 L 120.94 246.21 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path74" />
     <path
-       d="M 550,435 Q 615,560 345,515 75,470 118.11,608.92"
+       d="M 550 435 Q 615 560 345 515 Q 75 470 118.11 608.92"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path75" />
     <path
-       d="m 119.67,613.93 -5.42,-5.65 3.86,0.64 2.83,-2.71 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 119.67 613.93 L 114.25 608.28 L 118.11 608.92 L 120.94 606.21 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path76" />
     <path
-       d="M 550,255 Q 605,380 340,337.5 75,295 118.05,428.94"
+       d="M 550 255 Q 605 380 340 337.5 Q 75 295 118.05 428.94"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path77" />
     <path
-       d="m 119.66,433.94 -5.48,-5.6 3.87,0.6 2.8,-2.74 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 119.66 433.94 L 114.18 428.34 L 118.05 428.94 L 120.85 426.2 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path78" />
     <path
-       d="M 550,615 Q 615,750 345,697 75,644 118.18,788.9"
+       d="M 550 615 Q 615 750 345 697 Q 75 644 118.18 788.9"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path79" />
     <path
-       d="m 119.68,793.93 -5.35,-5.71 3.85,0.68 2.86,-2.68 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 119.68 793.93 L 114.33 788.22 L 118.18 788.9 L 121.04 786.22 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path80" />
     <path
-       d="m 30,75 h 5 -1.37"
+       d="M 30 75 L 35 75 L 33.63 75"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path81" />
     <path
-       d="m 38.88,75 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 38.88 75 L 31.88 78.5 L 33.63 75 L 31.88 71.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path82" />
     <path
-       d="m 70,75 h 3.63"
+       d="M 70 75 L 73.63 75"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path83" />
     <path
-       d="m 78.88,75 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 78.88 75 L 71.88 78.5 L 73.63 75 L 71.88 71.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path84" />
     <path
-       d="m 110,75 h 3.63"
+       d="M 110 75 L 113.63 75"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path85" />
     <path
-       d="m 118.88,75 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 118.88 75 L 111.88 78.5 L 113.63 75 L 111.88 71.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path86" />
     <path
-       d="m 150,75 h 3.63"
+       d="M 150 75 L 153.63 75"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path87" />
     <path
-       d="m 158.88,75 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 158.88 75 L 151.88 78.5 L 153.63 75 L 151.88 71.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path88" />
     <path
-       d="m 190,75 h 3.63"
+       d="M 190 75 L 193.63 75"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path89" />
     <path
-       d="m 198.88,75 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 198.88 75 L 191.88 78.5 L 193.63 75 L 191.88 71.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path90" />
     <path
-       d="m 230,75 h 3.63"
+       d="M 230 75 L 233.63 75"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path91" />
     <path
-       d="m 238.88,75 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 238.88 75 L 231.88 78.5 L 233.63 75 L 231.88 71.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path92" />
     <path
-       d="m 270,75 h 3.63"
+       d="M 270 75 L 273.63 75"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path93" />
     <path
-       d="m 278.88,75 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 278.88 75 L 271.88 78.5 L 273.63 75 L 271.88 71.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path94" />
     <path
-       d="m 310,75 h 3.63"
+       d="M 310 75 L 313.63 75"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path95" />
     <path
-       d="m 318.88,75 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 318.88 75 L 311.88 78.5 L 313.63 75 L 311.88 71.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path96" />
     <path
-       d="m 350,75 h 3.63"
+       d="M 350 75 L 353.63 75"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path97" />
     <path
-       d="m 358.88,75 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 358.88 75 L 351.88 78.5 L 353.63 75 L 351.88 71.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path98" />
     <path
-       d="m 390,75 h 3.63"
+       d="M 390 75 L 393.63 75"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path99" />
     <path
-       d="m 398.88,75 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 398.88 75 L 391.88 78.5 L 393.63 75 L 391.88 71.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path100" />
     <path
-       d="m 430,75 h 3.63"
+       d="M 430 75 L 433.63 75"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path101" />
     <path
-       d="m 438.88,75 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 438.88 75 L 431.88 78.5 L 433.63 75 L 431.88 71.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path102" />
     <path
-       d="m 470,75 h 3.63"
+       d="M 470 75 L 473.63 75"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path103" />
     <path
-       d="m 478.88,75 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 478.88 75 L 471.88 78.5 L 473.63 75 L 471.88 71.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path104" />
     <path
-       d="m 510,75 h 3.63"
+       d="M 510 75 L 513.63 75"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path105" />
     <path
-       d="m 518.88,75 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 518.88 75 L 511.88 78.5 L 513.63 75 L 511.88 71.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path106" />
     <path
-       d="m 270,256 h 3.63"
+       d="M 270 256 L 273.63 256"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path107" />
     <path
-       d="m 278.88,256 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 278.88 256 L 271.88 259.5 L 273.63 256 L 271.88 252.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path108" />
     <path
-       d="m 310,256 h 3.63"
+       d="M 310 256 L 313.63 256"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path109" />
     <path
-       d="m 318.88,256 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 318.88 256 L 311.88 259.5 L 313.63 256 L 311.88 252.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path110" />
     <path
-       d="m 350,256 h 3.63"
+       d="M 350 256 L 353.63 256"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path111" />
     <path
-       d="m 358.88,256 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 358.88 256 L 351.88 259.5 L 353.63 256 L 351.88 252.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path112" />
     <path
-       d="m 390,256 h 3.63"
+       d="M 390 256 L 393.63 256"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path113" />
     <path
-       d="m 398.88,256 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 398.88 256 L 391.88 259.5 L 393.63 256 L 391.88 252.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path114" />
     <path
-       d="m 430,256 h 3.63"
+       d="M 430 256 L 433.63 256"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path115" />
     <path
-       d="m 438.88,256 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 438.88 256 L 431.88 259.5 L 433.63 256 L 431.88 252.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path116" />
     <path
-       d="m 470,256 h 3.63"
+       d="M 470 256 L 473.63 256"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path117" />
     <path
-       d="m 478.88,256 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 478.88 256 L 471.88 259.5 L 473.63 256 L 471.88 252.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path118" />
     <path
-       d="m 510,256 h 3.63"
+       d="M 510 256 L 513.63 256"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path119" />
     <path
-       d="m 518.88,256 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 518.88 256 L 511.88 259.5 L 513.63 256 L 511.88 252.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path120" />
     <path
-       d="m 270,435 h 3.63"
+       d="M 270 435 L 273.63 435"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path121" />
     <path
-       d="m 278.88,435 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 278.88 435 L 271.88 438.5 L 273.63 435 L 271.88 431.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path122" />
     <path
-       d="m 310,435 h 3.63"
+       d="M 310 435 L 313.63 435"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path123" />
     <path
-       d="m 318.88,435 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 318.88 435 L 311.88 438.5 L 313.63 435 L 311.88 431.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path124" />
     <path
-       d="m 350,435 h 3.63"
+       d="M 350 435 L 353.63 435"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path125" />
     <path
-       d="m 358.88,435 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 358.88 435 L 351.88 438.5 L 353.63 435 L 351.88 431.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path126" />
     <path
-       d="m 390,435 h 3.63"
+       d="M 390 435 L 393.63 435"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path127" />
     <path
-       d="m 398.88,435 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 398.88 435 L 391.88 438.5 L 393.63 435 L 391.88 431.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path128" />
     <path
-       d="m 430,435 h 3.63"
+       d="M 430 435 L 433.63 435"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path129" />
     <path
-       d="m 438.88,435 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 438.88 435 L 431.88 438.5 L 433.63 435 L 431.88 431.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path130" />
     <path
-       d="m 470,435 h 3.63"
+       d="M 470 435 L 473.63 435"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path131" />
     <path
-       d="m 478.88,435 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 478.88 435 L 471.88 438.5 L 473.63 435 L 471.88 431.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path132" />
     <path
-       d="m 510,435 h 3.63"
+       d="M 510 435 L 513.63 435"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path133" />
     <path
-       d="m 518.88,435 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 518.88 435 L 511.88 438.5 L 513.63 435 L 511.88 431.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path134" />
     <path
-       d="m 270,614 h 3.63"
+       d="M 270 614 L 273.63 614"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path135" />
     <path
-       d="m 278.88,614 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 278.88 614 L 271.88 617.5 L 273.63 614 L 271.88 610.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path136" />
     <path
-       d="m 310,614 h 3.63"
+       d="M 310 614 L 313.63 614"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path137" />
     <path
-       d="m 318.88,614 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 318.88 614 L 311.88 617.5 L 313.63 614 L 311.88 610.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path138" />
     <path
-       d="m 350,614 h 3.63"
+       d="M 350 614 L 353.63 614"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path139" />
     <path
-       d="m 358.88,614 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 358.88 614 L 351.88 617.5 L 353.63 614 L 351.88 610.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path140" />
     <path
-       d="m 390,614 h 3.63"
+       d="M 390 614 L 393.63 614"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path141" />
     <path
-       d="m 398.88,614 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 398.88 614 L 391.88 617.5 L 393.63 614 L 391.88 610.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path142" />
     <path
-       d="m 430,614 h 3.63"
+       d="M 430 614 L 433.63 614"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path143" />
     <path
-       d="m 438.88,614 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 438.88 614 L 431.88 617.5 L 433.63 614 L 431.88 610.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path144" />
     <path
-       d="m 470,614 h 3.63"
+       d="M 470 614 L 473.63 614"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path145" />
     <path
-       d="m 478.88,614 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 478.88 614 L 471.88 617.5 L 473.63 614 L 471.88 610.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path146" />
     <path
-       d="m 510,614 h 3.63"
+       d="M 510 614 L 513.63 614"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path147" />
     <path
-       d="m 518.88,614 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 518.88 614 L 511.88 617.5 L 513.63 614 L 511.88 610.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path148" />
     <path
-       d="m 150,255 h 3.63"
+       d="M 150 255 L 153.63 255"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path149" />
     <path
-       d="m 158.88,255 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 158.88 255 L 151.88 258.5 L 153.63 255 L 151.88 251.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path150" />
     <path
-       d="m 190,255 h 3.63"
+       d="M 190 255 L 193.63 255"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path151" />
     <path
-       d="m 198.88,255 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 198.88 255 L 191.88 258.5 L 193.63 255 L 191.88 251.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path152" />
     <path
-       d="m 230,255 h 3.63"
+       d="M 230 255 L 233.63 255"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path153" />
     <path
-       d="m 238.88,255 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 238.88 255 L 231.88 258.5 L 233.63 255 L 231.88 251.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path154" />
     <path
-       d="m 150,435 h 3.63"
+       d="M 150 435 L 153.63 435"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path155" />
     <path
-       d="m 158.88,435 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 158.88 435 L 151.88 438.5 L 153.63 435 L 151.88 431.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path156" />
     <path
-       d="m 190,435 h 3.63"
+       d="M 190 435 L 193.63 435"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path157" />
     <path
-       d="m 198.88,435 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 198.88 435 L 191.88 438.5 L 193.63 435 L 191.88 431.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path158" />
     <path
-       d="m 230,435 h 3.63"
+       d="M 230 435 L 233.63 435"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path159" />
     <path
-       d="m 238.88,435 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 238.88 435 L 231.88 438.5 L 233.63 435 L 231.88 431.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path160" />
     <path
-       d="m 150,615 h 3.63"
+       d="M 150 615 L 153.63 615"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path161" />
     <path
-       d="m 158.88,615 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 158.88 615 L 151.88 618.5 L 153.63 615 L 151.88 611.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path162" />
     <path
-       d="m 190,615 h 3.63"
+       d="M 190 615 L 193.63 615"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path163" />
     <path
-       d="m 198.88,615 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 198.88 615 L 191.88 618.5 L 193.63 615 L 191.88 611.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path164" />
     <path
-       d="m 230,615 h 3.63"
+       d="M 230 615 L 233.63 615"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path165" />
     <path
-       d="m 238.88,615 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 238.88 615 L 231.88 618.5 L 233.63 615 L 231.88 611.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path166" />
     <path
-       d="m 150,795 h 3.63"
+       d="M 150 795 L 153.63 795"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path167" />
     <path
-       d="m 158.88,795 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 158.88 795 L 151.88 798.5 L 153.63 795 L 151.88 791.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path168" />
     <path
-       d="m 190,795 h 3.63"
+       d="M 190 795 L 193.63 795"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path169" />
     <path
-       d="m 198.88,795 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 198.88 795 L 191.88 798.5 L 193.63 795 L 191.88 791.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path170" />
     <path
-       d="m 230,795 h 3.63"
+       d="M 230 795 L 233.63 795"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path171" />
     <path
-       d="m 238.88,795 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 238.88 795 L 231.88 798.5 L 233.63 795 L 231.88 791.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path172" />
     <path
-       d="m 270,795 h 3.63"
+       d="M 270 795 L 273.63 795"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path173" />
     <path
-       d="m 278.88,795 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 278.88 795 L 271.88 798.5 L 273.63 795 L 271.88 791.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path174" />
     <path
-       d="m 310,795 h 3.63"
+       d="M 310 795 L 313.63 795"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path175" />
     <path
-       d="m 318.88,795 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 318.88 795 L 311.88 798.5 L 313.63 795 L 311.88 791.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path176" />
     <path
-       d="m 350,795 h 3.63"
+       d="M 350 795 L 353.63 795"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path177" />
     <path
-       d="m 358.88,795 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 358.88 795 L 351.88 798.5 L 353.63 795 L 351.88 791.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path178" />
     <path
-       d="m 390,795 h 3.63"
+       d="M 390 795 L 393.63 795"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path179" />
     <path
-       d="m 398.88,795 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 398.88 795 L 391.88 798.5 L 393.63 795 L 391.88 791.5 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path180" />
     <path
-       d="m 550,75 q 15,0 15,-17.5 0,-17.5 -8.88,-13.18"
+       d="M 550 75 Q 565 75 565 57.5 Q 565 40 556.12 44.32"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path181" />
     <path
-       d="m 551.4,46.61 4.76,-6.21 -0.04,3.92 3.1,2.38 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 551.4 46.61 L 556.16 40.4 L 556.12 44.32 L 559.22 46.7 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path182" />
     <path
-       d="m 550,255 q 15,0 15,-17.5 0,-17.5 -9.23,-13.19"
+       d="M 550 255 Q 565 255 565 237.5 Q 565 220 555.77 224.31"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path183" />
     <path
-       d="m 551.01,226.53 4.87,-6.13 -0.11,3.91 3.07,2.43 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 551.01 226.53 L 555.88 220.4 L 555.77 224.31 L 558.84 226.74 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path184" />
     <path
-       d="m 550,436 q 15,0 15,-17.5 0,-17.5 -9.23,-13.19"
+       d="M 550 436 Q 565 436 565 418.5 Q 565 401 555.77 405.31"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path185" />
     <path
-       d="m 551.01,407.53 4.87,-6.13 -0.11,3.91 3.07,2.43 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 551.01 407.53 L 555.88 401.4 L 555.77 405.31 L 558.84 407.74 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path186" />
     <path
-       d="m 550,616 q 15,0 15,-17.5 0,-17.5 -9.23,-13.19"
+       d="M 550 616 Q 565 616 565 598.5 Q 565 581 555.77 585.31"
        fill="none"
-       stroke="#000000"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
        id="path187" />
     <path
-       d="m 551.01,587.53 4.87,-6.13 -0.11,3.91 3.07,2.43 z"
-       fill="#000000"
-       stroke="#000000"
+       d="M 551.01 587.53 L 555.88 581.4 L 555.77 585.31 L 558.84 587.74 Z"
+       fill="rgb(0, 0, 0)"
+       stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
        id="path188" />
   </g>
   <switch
-     id="switch189"
-     transform="translate(155,-155)">
+     id="switch189">
     <g
        requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
        id="g189" />
