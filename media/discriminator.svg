@@ -5,32 +5,9 @@
    height="701"
    viewBox="-0.5 -0.5 121 701"
    id="svg44"
-   sodipodi:docname="discriminator.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <sodipodi:namedview
-     id="namedview44"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.5392297"
-     inkscape:cx="60.648315"
-     inkscape:cy="350.5"
-     inkscape:window-width="2558"
-     inkscape:window-height="1374"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg44" />
   <defs
      id="defs1" />
   <g
@@ -923,23 +900,4 @@
        pointer-events="all"
        id="path43" />
   </g>
-  <switch
-     id="switch44"
-     transform="translate(-290,290)">
-    <g
-       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-       id="g44" />
-    <a
-       transform="translate(0,-5)"
-       xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems"
-       target="_blank"
-       id="a44">
-      <text
-         text-anchor="middle"
-         font-size="10px"
-         x="50%"
-         y="100%"
-         id="text44">Text is not SVG - cannot display</text>
-    </a>
-  </switch>
 </svg>
