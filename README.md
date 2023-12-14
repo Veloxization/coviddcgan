@@ -5,7 +5,7 @@ Tämä repositorio sisältää käytetyn lähdekoodin kanditutkielmalle *Synteet
 Python-ohjelmat kannattaa suorittaa `coviddcgan` hakemiston sisältä.
 
 ### coviddcgan/coviddcgan.py
-Lähde: [https://gist.github.com/anilsathyan7/ffb35601483ac46bd72790fde55f5c04](https://github.com/eriklindernoren/Keras-GAN)
+Lähde: [https://github.com/eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
 
 Luo DCGAN-mallin ja tallentaa generoivan ja erottelevan verkon rakenteet ja painot hakemistoon `dcgan/saved_model`. Hakemistoon tallentuu myös mallien varmuuskopiot. Valmis malli kannattaa siirtää `covidmodel` (COVID-positiivisia röntgenkuvia luova malli) tai `normalmodel` (terveitä röntgenkuvia luova malli) hakemistoon koulutuksen valmistuttua, sillä uusi koulutus korvaa hakemistossa olevat mallit.
 
