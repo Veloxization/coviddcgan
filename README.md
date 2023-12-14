@@ -27,3 +27,14 @@ Tallentaa valitun mallin luomat röntgenkuvat NPZ-hakemiston sisälle tallennetu
 
 ### coviddcgan/plot_model.py
 Luo valituista malleista niiden arkkitehtuuria kuvaavan PNG-kuvan.
+
+## Mallien arkkitehtuurit
+
+### Generoiva verkko
+![Generoivan verkon arkkitehtuuri](https://github.com/Veloxization/coviddcgan/blob/2a17c78d541da3f4d680c2b04c72db4f7d5e1ef5/media/generator.svg)
+
+### Erotteleva verkko
+![Erottelevan verkon arkkitehtuuri](https://github.com/Veloxization/coviddcgan/blob/2a17c78d541da3f4d680c2b04c72db4f7d5e1ef5/media/discriminator.svg)
+
+### DenseNet-121
+![DenseNet-121-mallin arkkitehtuuri](https://github.com/Veloxization/coviddcgan/blob/2a17c78d541da3f4d680c2b04c72db4f7d5e1ef5/media/densenet.svg)
